@@ -90,7 +90,7 @@ To create an interactive Power BI tool that helps users:
 
 Here are a few snapshots of the dashboard in action:
 
-![LEGO Overview](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/lego-dashboard-1.png)
+![LEGO Overview](https://github.com/SahityaSangaru6183/LEGO-Dashboard/blob/main/Screenshot%202025-07-15%20150417.png?raw=true)
 
-![Filtered Table View](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/lego-dashboard-2.png)
+![Filtered Table View](https://github.com/SahityaSangaru6183/LEGO-Dashboard/blob/main/Screenshot%202025-07-15%20150417.png?raw=true)
 
