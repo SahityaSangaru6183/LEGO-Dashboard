@@ -92,5 +92,4 @@ To create an interactive Power BI tool that helps users:
 > Add screenshots from your PBIX here. You can upload them in your GitHub repo and embed as below:
 
 ```markdown
-![LEGO Overview](https://github.com/yourusername/lego-dashboard/assets/snapshot1.png)
-![Filtered Table View](https://github.com/yourusername/lego-dashboard/assets/snapshot2.png)
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
