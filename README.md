@@ -87,9 +87,3 @@ To create an interactive Power BI tool that helps users:
 
 ---
 
-## 🖼️ Dashboard Snapshots
-
-> Add screenshots from your PBIX here. You can upload them in your GitHub repo and embed as below:
-
-```markdown
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
