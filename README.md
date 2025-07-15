@@ -92,5 +92,5 @@ Here are a few snapshots of the dashboard in action:
 
 ![LEGO Overview](https://github.com/SahityaSangaru6183/LEGO-Dashboard/blob/main/Screenshot%202025-07-15%20150417.png?raw=true)
 
-![Filtered Table View](https://github.com/SahityaSangaru6183/LEGO-Dashboard/blob/main/Screenshot%202025-07-15%20150417.png?raw=true)
+
 
