@@ -86,4 +86,11 @@ To create an interactive Power BI tool that helps users:
 - Supports clear **visual storytelling** using interactive features
 
 ---
+## 🖼️ Dashboard Snapshots
+
+Here are a few snapshots of the dashboard in action:
+
+![LEGO Overview](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/lego-dashboard-1.png)
+
+![Filtered Table View](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/lego-dashboard-2.png)
 
